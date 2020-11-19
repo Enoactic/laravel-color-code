@@ -1,0 +1,21 @@
+{
+    "name": "enoactic/laravel-color-code",
+    "description": "",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Boonyaphat Intasin",
+            "email": "aosmosiss-ze@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "LaravelColorCode\\": "src/LaravelColorCode"
+        }
+    },
+    "require": {
+        "php": ">=7.1.33"
+    }
+}
